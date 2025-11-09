@@ -1,16 +1,16 @@
-# PinoySeoul Radio: Open-Source Android Streaming App
+# Pinoy Seoul Radio: Open-Source Android Streaming App
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/pinoyseoul/pinoyseoulradio)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/subtleazn/pinoyseoulradio)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > Bringing Filipino radio to the world, one stream at a time.
 
-PinoySeoul Radio is an open-source, single-stream radio streaming application meticulously developed for PinoySeoul Media Enterprise. This project serves as a robust and customizable solution for delivering high-quality audio content to a global audience via Android devices. Designed with performance and user experience in mind, it offers a seamless listening experience and a flexible architecture for easy branding and content management.
+Pinoy Seoul Radio is an open-source, single-stream radio streaming application meticulously developed for PinoySeoul Media Enterprise. This project serves as a robust and customizable solution for delivering high-quality audio content to a global audience via Android devices. Designed with performance and user experience in mind, it offers a seamless listening experience and a flexible architecture for easy branding and content management.
 
-## Why PinoySeoul Radio?
+## Why Pinoy Seoul Radio?
 
-In a world of complex, multi-featured music apps, PinoySeoul Radio focuses on one thing: providing a simple, reliable, and high-quality listening experience for a single radio stream. This project was born out of a desire to create a lightweight, open-source, and easily customizable Android app for independent broadcasters and media enterprises.
+In a world of complex, multi-featured music apps, Pinoy Seoul Radio focuses on one thing: providing a simple, reliable, and high-quality listening experience for a single radio stream. This project was born out of a desire to create a lightweight, open-source, and easily customizable Android app for independent broadcasters and media enterprises.
 
 ## Features
 
@@ -25,7 +25,7 @@ In a world of complex, multi-featured music apps, PinoySeoul Radio focuses on on
 
 ## Architecture Overview
 
-The PinoySeoul Radio app follows a standard Android architecture, with a focus on separation of concerns and modularity.
+The Pinoy Seoul Radio app follows a standard Android architecture, with a focus on separation of concerns and modularity.
 
 *   **UI Layer:** Activities and Fragments built with View Binding.
 *   **Service Layer:** A `RadioService` manages background playback and media notifications.
@@ -34,19 +34,19 @@ The PinoySeoul Radio app follows a standard Android architecture, with a focus o
 
 ## Getting Started
 
-To get a local copy of PinoySeoul Radio up and running on your development environment, follow the detailed instructions in our [Setup Guide](docs/SETUP.md).
+To get a local copy of Pinoy Seoul Radio up and running on your development environment, follow the detailed instructions in our [Setup Guide](docs/SETUP.md).
 
 ## Customization
 
-Tailor the PinoySeoul Radio app to your specific brand and streaming needs. Our [Customization Checklist](docs/CUSTOMIZATION.md) provides a step-by-step guide.
+Tailor the Pinoy Seoul Radio app to your specific brand and streaming needs. Our [Customization Checklist](docs/CUSTOMIZATION.md) provides a step-by-step guide.
 
 ## Deployment
 
-Ready to publish your customized PinoySeoul Radio app? Our [Deployment Guide](docs/DEPLOYMENT.md) walks you through the process.
+Ready to publish your customized Pinoy Seoul Radio app? Our [Deployment Guide](docs/DEPLOYMENT.md) walks you through the process.
 
 ## Contributing
 
-We welcome contributions to the PinoySeoul Radio project! If you have suggestions for improvements, bug fixes, or new features, please see our [Contributing Guide](CONTRIBUTING.md).
+We welcome contributions to the Pinoy Seoul Radio project! If you have suggestions for improvements, bug fixes, or new features, please see our [Contributing Guide](CONTRIBUTING.md).
 
 ## Code of Conduct
 
@@ -58,10 +58,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/pinoyseoul/pinoyseoulradio](https://github.com/pinoyseoul/pinoyseoulradio)
-Support Email: [support@pinoyseoul.com](mailto:support@pinoyseoul.com)
+Project Link: [https://github.com/subtleazn/pinoyseoulradio](https://github.com/subtleazn/pinoyseoulradio)
+Support Email: [admin@pinoyseoul.com](mailto:admin@pinoyseoul.com)
 
 ## Acknowledgements
 
-*   PinoySeoul Media Enterprise
+*   [PinoySeoul Media Enterprise](https://media.pinoyseoul.com)
 *   Open-source community

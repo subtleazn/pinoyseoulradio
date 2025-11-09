@@ -1,12 +1,12 @@
-# Contributing to PinoySeoul Radio
+# Contributing to Pinoy Seoul Radio
 
-First off, thank you for considering contributing to PinoySeoul Radio! It's people like you that make open source such a great community.
+First off, thank you for considering contributing to Pinoy Seoul Radio! It's people like you that make open source such a great community.
 
 ## Where do I start?
 
 ### Reporting Bugs
 
-If you find a bug, please make sure it hasn't already been reported by searching for it in the [Issues](https://github.com/pinoyseoul/pinoyseoulradio/issues) section. If you can't find an open issue addressing the problem, please [open a new one](https://github.com/pinoyseoul/pinoyseoulradio/issues/new). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample or an executable test case** demonstrating the expected behavior that is not occurring.
+If you find a bug, please make sure it hasn't already been reported by searching for it in the [Issues](https://github.com/subtleazn/pinoyseoulradio/issues) section. If you can't find an open issue addressing the problem, please [open a new one](https://github.com/subtleazn/pinoyseoulradio/issues/new). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample or an executable test case** demonstrating the expected behavior that is not occurring.
 
 ### Suggesting Enhancements
 
@@ -40,4 +40,4 @@ We love pull requests! If you're planning to contribute code, please follow thes
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [PinoySeoul Radio Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [INSERT CONTACT EMAIL].
+This project and everyone participating in it is governed by the [Pinoy Seoul Radio Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [admin@pinoyseoul.com](mailto:admin@pinoyseoul.com).
