@@ -1,0 +1,19 @@
+# Build outputs
+*.apk
+*.aab
+build/
+
+# Android Studio files
+.idea/
+*.iml
+
+# Keystore files
+*.jks
+*.keystore
+key.properties
+
+# Firebase config
+google-services.json
+
+# Local properties
+local.properties

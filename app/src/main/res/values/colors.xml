@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ffd800</color>
+
+    <color name="bottom">#30444d</color>
+    <color name="inactive">#383838</color>
+
+    <color name="blue">#3dd598</color>
+    <color name="tranparent">#00FFFFFF</color>
+    <color name="textMenu">#FFFFFF</color>
+    <color name="buttomColor">#2D3862</color>
+    <color name="buttonDown">#292929</color>
+    <color name="dot">#B42510</color>
+    <color name="dim">#000000</color>
+    <color name="dim1">#000000</color>
+    <color name="green">#3dd598</color>
+    <color name="yello">#641AAD</color>
+    <color name="cell_color">#303A46</color>
+    <color name="accentTowColor">#585C67</color>
+    <color name="title_faq">#25203c</color>
+    <color name="body_faq">#49436A</color>
+    <color name="violet">#4b1ca7</color>
+    <color name="yellow">#ffd700</color>
+    <color name="red_up">#e1233d</color>
+    <color name="cell_new_color">#7E4AE5</color>
+    <color name="colorAccentDark">#164D2A</color>
+
+    <color name="background">#000000</color>
+    <color name="black_tr">#000000</color>
+    <color name="cell_all">#2E2E2E</color>
+
+    <color name="grayLight">#88898C</color>
+
+    <!-- new color -->
+    <color name="back_app_main_color">#F5F6FA</color>
+    <color name="back_cell_main_color">#FFFFFF</color>
+    <color name="second_text">#9C9CB8</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="first_drop_down_text_view_title">#FFDFF5FF</color>
+    <color name="first_drop_down_text_view_content">#323b40</color>
+
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_more_light">#33e5e5e5</color>
+    <color name="gray_light">#F7F7F7</color>
+    <color name="transparent">#00ffffff</color>
+
+    <color name="tab_selected_color">#d21034</color>
+    <color name="red_toolbar">#d21034</color>
+    <color name="red_statusbar">#d21034</color>
+    <color name="red_app">#d21034</color>
+    <color name="red_statusbar_dark">#b81432</color>
+    <color name="tab_unselected_color">#96a5ae</color>
+    <color name="gray_border">#eff1f3</color>
+    <color name="gray_text">#293D51</color>
+    <color name="gray_text_disabled">#54677D</color>
+    <color name="gray_text_faded">#80555e63</color>
+
+    <color name="cardBackground">#bfffffff</color>
+    <color name="colorTransparent">@android:color/transparent</color>
+    <color name="black_transparent">#14000000</color>
+    <color name="black_transparent_image">#46000000</color>
+    <color name="active_indicator">#C62828</color>
+    <color name="inactive_indicator">#4D000000</color>
+    <color name="red">#ff0000</color>
+    <color name="grey_600">#757575</color>
+    <color name="grey_300">#e0e0e0</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="bg">#757575</color>
+    <color name="cyanea_primary_reference">#0288D1</color>
+    <color name="cyanea_accent_reference">#FFA000</color>
+    <color name="not_active">#071349</color>
+
+    <color name="colorUp">#5A5E79</color>
+    <color name="gradient1">#1238CE</color>
+    <color name="gradient2">#2F93C2</color>
+
+    <!-- colors -->
+
+    <color name="blue_color_picker">#0066FF</color>
+    <color name="brown_color_picker">#AF593E</color>
+    <color name="green_color_picker">#01A368</color>
+    <color name="orange_color_picker">#FF861F</color>
+    <color name="red_color_picker">#ED0A3F</color>
+    <color name="red_orange_color_picker">#FF3F34</color>
+    <color name="sky_blue_color_picker">#76D7EA</color>
+    <color name="violet_color_picker">#8359A3</color>
+    <color name="yellow_color_picker">#FBE870</color>
+    <color name="yellow_green_color_picker">#C5E17A</color>
+    <color name="tool_bg">#000000</color>
+
+    <color name="light_gray">#eeeeee</color>
+    <color name="underline_gray">#ECD0D0</color>
+
+    <color name="deezer_01">#c2ff00</color>
+    <color name="deezer_02">#00c7f2</color>
+
+    <color name="controlback">#DA000000</color>
+    <color name="eq">#9F3DD598</color>
+
+    <color name="secondaryColor">#4caf50</color>
+    <color name="primaryColor">#212121</color>
+    <color name="primaryLightColor">#313131</color>
+    <color name="primaryDarkColor">#101010</color>
+    <color name="playingCardColor">#444caf50</color>
+    <color name="textColor">#FAFAFA</color>
+</resources>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical|center_horizontal"
+    android:background="@drawable/btn_b"
+    android:gravity="center_vertical|center_horizontal"
+    android:orientation="vertical"
+    android:paddingTop="6dp"
+    android:paddingBottom="6dp">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/contr"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/errorText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="5dp"
+                android:text="@string/find_this_track_in_popular_music_streaming_services"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/btn_deezer"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/btn_green"
+                android:drawableLeft="@drawable/deezer"
+                android:drawablePadding="6dp"
+                android:padding="6dp"
+                android:text="Deezer"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="18sp"
+                android:typeface="monospace" />
+
+            <Button
+                android:id="@+id/btn_apple"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/btn_green"
+                android:drawableLeft="@drawable/apple_m"
+                android:drawablePadding="6dp"
+                android:padding="6dp"
+                android:text="Apple"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="18sp"
+                android:typeface="monospace" />
+            <Button
+                android:id="@+id/btn_spotify"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/btn_green"
+                android:drawableLeft="@drawable/deezer"
+                android:drawablePadding="6dp"
+                android:padding="6dp"
+                android:text="Spotify"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="18sp"
+                android:typeface="monospace" />
+
+            <Button
+                android:id="@+id/btn_vk"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/btn_green"
+                android:drawableLeft="@drawable/social"
+                android:drawablePadding="6dp"
+                android:padding="6dp"
+                android:text="Vkontacte"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="18sp"
+                android:typeface="monospace" />
+
+            <Button
+                android:id="@+id/btn_google"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/btn_green"
+                android:drawableLeft="@drawable/google"
+                android:drawablePadding="6dp"
+                android:padding="6dp"
+                android:text="Google"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="18sp"
+                android:typeface="monospace" />
+
+            <Button
+                android:id="@+id/btn_yandex"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="50dp"
+                android:background="@drawable/btn_green"
+                android:drawableLeft="@drawable/yandex"
+                android:drawablePadding="6dp"
+                android:padding="6dp"
+                android:text="Yandex"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="18sp"
+                android:typeface="monospace" />
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

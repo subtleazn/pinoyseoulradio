@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Pinoy Seoul Radio</string>
+
+    <!-- ADS -->
+    <string name="ads_ids" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <!-- ADS END -->
+
+    <string name="live_broadcast">On Air</string>
+    <string name="empty" translatable="false"> </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start_text">Pinoy Seoul <font color='#ffffff'>RADIO</font></string>
+    <string name="love">Made with <font color='#B42510'>\u2665</font> by PinoySeoul Media Enterprise</string>
+    <string name="slide_right">slide left </string>
+    <string name="slide_down">slide down</string>
+    <string name="i_listen">Im listen : </string>
+    <string name="in">" in application "</string>
+    <string name="application_download">" Download app: "</string>
+    <string name="we_have_determined_that_your_deezer_is_not_installed_before_using_this_function_install_a_deezer">We have determined that your Deezer is not installed. Before using this function, install a Deezer.</string>
+    <string name="install_deezer">Install App</string>
+    <string name="we">We did not find the</string>
+    <string name="appl">application on your smartphone</string>
+    <string name="find_this_track_in_popular_music_streaming_services">Find this track in popular music streaming services</string>
+    <string name="share">Share</string>
+    <string name="radio">RADIO</string>
+    <string name="record">RECORD</string>
+    <string name="web">WEB</string>
+    <string name="settings">SETTINGS</string>
+    <string name="song_title">SONG TITLE</string>
+    <string name="about_us">About us</string>
+    <string name="about_txt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="version_1_2_3">Version 1.2.5</string>
+    <string name="timer_head">Timer</string>
+    <string name="_00_00_00_t">00:00:00</string>
+    <string name="set_timer_a">Set timer</string>
+    <string name="mail_to_developer">Mail to developer</string>
+    <string name="your_message">your message</string>
+    <string name="change">Change</string>
+    <string name="logout">Logout</string>
+    <string name="logout_b">Logout</string>
+    <string name="login">login</string>
+    <string name="please_set_timer_min">Please set timer (min)</string>
+    <string name="ok">OK</string>
+    <string name="via_pone">Sign in with a <font color='#1DB954'>phone </font>number</string>
+    <string name="recovery">Check the mail, a password recovery letter has been sent to it!</string>
+    <string name="restorez">Restore</string>
+    <string name="e_mailz">e-mail</string>
+    <string name="usernamez">username</string>
+    <string name="login_now">Login now</string>
+    <string name="oops_i_forgot_my_password">oops i forgot my password</string>
+    <string name="emailz">email</string>
+    <string name="passwordz">password</string>
+    <string name="start_timer">Set timer</string>
+    <string name="stop_timer">Stop timer</string>
+    <string name="timer">00:00:00</string>
+    <string name="you_name">Your name : </string>
+    <string name="a_kbs">320 kbps</string>
+    <string name="b_kbs">192 kbps</string>
+    <string name="c_kbs">64 kbps</string>
+    <string name="stream_quality">Stream quality</string>
+    <string name="quality">Quality</string>
+    <string name="blur_radius">Blur radius</string>
+    <string name="not_app">Your smartphone does not have this application</string>
+    <string name="please_install">\"Please first install \"</string>
+
+</resources>
